@@ -1,6 +1,7 @@
 # chatgpt_voice_chat
 
-crude version for conversational bot using openai-api and tacotron2
+crude version for conversational bot using openai-api and tacotron2 (needs some stronger gpu ~10gb memory)
+
 
 ## installation ##
 * get openai api_key
@@ -15,3 +16,5 @@ crude version for conversational bot using openai-api and tacotron2
 * press lower button to stop recording
 * requests will be sent to openai api's to transcribe and generate response
 
+# todo:
+change Gui to pyqt (or something nicer)
