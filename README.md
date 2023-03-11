@@ -1,6 +1,6 @@
 # voice chat with a large language model
 
-crude version for conversational bot using openai-api (gpt-3) and tacotron2 (needs some stronger gpu ~10gb memory)
+crude version for conversational bot using openai-api (gpt-3) and tacotron2 (needs some stronger nvidia gpu)
 
 
 ## installation ##
