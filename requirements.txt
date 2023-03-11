@@ -89,6 +89,9 @@ pydub==0.25.1
 Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
 pyOpenSSL @ file:///croot/pyopenssl_1677607685877/work
 PyQt5-sip==12.11.0
+PyQt6==6.4.2
+PyQt6-Qt6==6.4.2
+PyQt6-sip==13.4.1
 pyrsistent @ file:///home/builder/ci_310/pyrsistent_1640807196327/work
 PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
